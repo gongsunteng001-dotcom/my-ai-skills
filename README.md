@@ -1,4 +1,4 @@
-# My AI Skills
+# M1st-AI-Skills
 
 个人 AI Skill 资源目录，集中介绍各个 Skill 的用途、源仓库和安装入口。
 
